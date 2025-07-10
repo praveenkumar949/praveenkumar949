@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 ![Banner](https://github.com/praveenkumar949/praveenkumar949/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+-->
+
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+Patakokila+Praveen+Kumar;AI+ML+%7C+Full+Stack+Developer+%7C+DevOps;Innovating+with+Code+%F0%9F%92%BB+Driven+by+Intelligence+%F0%9F%A7%A0" alt="Typing SVG" />

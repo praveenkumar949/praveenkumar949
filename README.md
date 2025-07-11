@@ -98,7 +98,9 @@ Here are some ideas to get you started:
 - ✅ Multi-class classification across 8 categories
 - 🚀 Achieved **89% accuracy**
 - 🖼 Processed over 7,000 images with data augmentation  
-[![Image Classification](https://user-images.githubusercontent.com/74038190/212749144-5662d2df-1aa7-4d16-993a-f75d8a993d3d.gif)](#)
+<a href="#">
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Deep-Learning-vs-Machine-Learning.jpg" width="300"/>
+</a>
 
 
 
@@ -106,7 +108,10 @@ Here are some ideas to get you started:
 - 💡 Developed hybrid BiLSTM + probabilistic model
 - 📈 Achieved **75.8% POS tagging accuracy**
 - ⚡ Improved F1-score to **0.74**  
-[![POS Tagging](https://user-images.githubusercontent.com/74038190/212749658-061d52c1-f3a4-4dc7-bce3-d7af740be52d.gif)](#)
+  <!--[![POS Tagging](https://user-images.githubusercontent.com/74038190/212749658-061d52c1-f3a4-4dc7-bce3-d7af740be52d.gif)](#) -->
+<a href="#">
+  <img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/10/shutterstock_1348992518.jpg" width="300"/>
+</a>
 
 
 
@@ -114,7 +119,10 @@ Here are some ideas to get you started:
 - 🔬 Built ML model predicting heart disease from health indicators
 - 🩺 Achieved **87% accuracy** using SVM
 - 📊 Outperformed Logistic Regression and Random Forest  
-[![Heart Disease Prediction](https://user-images.githubusercontent.com/74038190/212749904-8171676f-0be7-470d-8a89-69c62616e8e4.gif)](#)
+
+<a href="https://github.com/praveenkumar949/heart_disease_prediction_ml">
+  <img src="https://media.licdn.com/dms/image/v2/D5612AQFjeeHtx2thbw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1712137752403?e=2147483647&v=beta&t=PFONuf1OgY5kBlWIfm_O0AWNwhazt_HoSelj-NTnxCQ" width="300"/>
+</a>
 
 
 
@@ -122,7 +130,10 @@ Here are some ideas to get you started:
 - 🐍 CLI app handling 100+ tasks
 - 💾 Data persistence with file handling
 - 💻 Built during ML Internship at Academor  
-[![To Do App](https://user-images.githubusercontent.com/74038190/212750209-602e3649-6a9b-4f84-b21f-229fe1ea5c2f.gif)](#)
+
+<a href="#">
+  <img src="https://admin.wac.co/uploads/Features_Of_Python_1_f4ccd6d9f7.jpg" width="300"/>
+</a>
 
 ---
 
@@ -143,13 +154,14 @@ Here are some ideas to get you started:
 
 ---
 
-- 🎖 **Certifications**  
-  - Generative AI with Large Language Models – Coursera
-  - Cloud Computing – NPTEL
-  - Complete Interview Preparation – GeeksforGeeks
-  - Dynamic Programming & Greedy Algorithms – Coursera
-  - Programming in C++ – Coursera
-  - Become a Data Scientist – LinkedIn
+🎖 **Certifications**  
+- Generative AI with Large Language Models – [Coursera](https://drive.google.com/file/d/1mbV8tNWaKnUJ-ApoPe_Di6KgHcQBxa9B/view?usp=drive_link)  
+- Cloud Computing – [NPTEL](https://archive.nptel.ac.in/noc/Ecertificate/?q=NPTEL24CS118S167020187204431877)  
+- Complete Interview Preparation – [GeeksforGeeks](https://drive.google.com/file/d/1YVJMDJNnAbXvZpl9bBXO8aa_cZ2fzYHm/view?usp=drive_link)  
+- Dynamic Programming & Greedy Algorithms – [Coursera](https://drive.google.com/file/d/1yBTQYy5GzAol8iT6f9-FThJM6Jd9ZYr2/view?usp=drive_link)  
+- Programming in C++ – [Coursera](https://drive.google.com/file/d/1M3lq0Cd-WV9Ju7XObj2rPbR1MtyepP6v/view?usp=drive_link)  
+- Become a Data Scientist – [LinkedIn](https://drive.google.com/file/d/1kOIkBqZ6mvuhrRtaylbTXzNCxHMXG0Rj/view?usp=drive_link)  
+
 
 ---
 ## 📊 GitHub Stats

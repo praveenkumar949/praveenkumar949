@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 - ✅ Multi-class classification across 8 categories
 - 🚀 Achieved **89% accuracy**
 - 🖼 Processed over 7,000 images with data augmentation  
-<a href="#">
+<a href="https://github.com/praveenkumar949/Image_classification_using_cnn">
   <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Deep-Learning-vs-Machine-Learning.jpg" width="300"/>
 </a>
 
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 - 📈 Achieved **75.8% POS tagging accuracy**
 - ⚡ Improved F1-score to **0.74**  
   <!--[![POS Tagging](https://user-images.githubusercontent.com/74038190/212749658-061d52c1-f3a4-4dc7-bce3-d7af740be52d.gif)](#) -->
-<a href="#">
+<a href="https://github.com/praveenkumar949/POS-Tagging-and-Spellchecking-with-Hybrid-Model_nlp">
   <img src="https://www.mygreatlearning.com/blog/wp-content/uploads/2019/10/shutterstock_1348992518.jpg" width="300"/>
 </a>
 
